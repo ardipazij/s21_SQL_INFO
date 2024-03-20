@@ -1,0 +1,4 @@
+title,parent_task,max_xp
+C1,,250
+C2,C1,300
+C3,C2,500

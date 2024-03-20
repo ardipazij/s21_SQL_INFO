@@ -1,0 +1,11 @@
+id,peer_1,peer_2
+1,loquatsr,brettros
+2,latorias,loquatsr
+3,brettros,brettros
+4,celective,makdak
+5,makdak,brettros
+6,loquatsr,makdak
+7,latorias,loquatsr
+8,brettros,makdak
+9,celective,loquatsr
+10,makdak,latorias

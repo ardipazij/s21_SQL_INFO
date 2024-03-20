@@ -1,0 +1,11 @@
+id,checking_peer,checked_peer,points_amount
+1,loquatsr,celective,1
+2,latorias,loquatsr,1
+3,brettros,makdak,1
+4,celective,brettros,1
+5,makdak,brettros,1
+6,brettros,loquatsr,1
+7,loquatsr,makdak,1
+8,makdak,brettros,1
+9,brettros,celective,1
+10,latorias,brettros,1
